@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zariphel
+- :+1: Meu email de contato é luis.wolski@escola.pr.gov.br
+- 👀 Quero aprender programação pelo meu futuro no mercado de trabalho
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavasScript e Scratch
